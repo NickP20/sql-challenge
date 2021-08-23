@@ -7,7 +7,7 @@ A research project of corporate employees utilizing several csv files to perform
 
 All 6 CSVs were reviewed and then used to sketch out an ERD of the tables. Data types, primary keys, and foreign keys were identified. 
 
-http://localhost:8888/view/QuickDBD-employee_erd.png
+![Screenshot](QuickDBD-employee_erd.png)
 
 CSV files were then imported into the corresponding SQL tables
 
@@ -27,7 +27,9 @@ The following information was found and extracted
 SQL databases were imported into Pandas to check the dataset 
 
 *Histogram to visualize most common salary ranges for employees
-http://localhost:8888/view/EmployeeSQL/Salary%20Histogram.png
+
+![Screenshot](EmployeeSQL/Salary Histogram.png)
 
 *Bar chart of average salary by employee title
-http://localhost:8888/view/EmployeeSQL/Avg%20Salary%20by%20Title.png
+
+![Screenshot](EmployeeSQL/Avg Salary by Title.png)
