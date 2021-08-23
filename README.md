@@ -28,8 +28,8 @@ SQL databases were imported into Pandas to check the dataset
 
 *Histogram to visualize most common salary ranges for employees
 
-![Screenshot](EmployeeSQL/Salary Histogram.png)
+![Screenshot](https://github.com/NickP20/sql-challenge/blob/87b3010fec84a400c4e5929a6539189102b28498/EmployeeSQL/Salary%20Histogram.png)
 
 *Bar chart of average salary by employee title
 
-![Screenshot](EmployeeSQL/Avg Salary by Title.png)
+![Screenshot](https://github.com/NickP20/sql-challenge/blob/87b3010fec84a400c4e5929a6539189102b28498/EmployeeSQL/Avg%20Salary%20by%20Title.png)
