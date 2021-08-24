@@ -26,10 +26,10 @@ The following information was found and extracted
 ### Finally a visualization of the data was generated
 SQL databases were imported into Pandas to check the dataset 
 
-*Histogram to visualize most common salary ranges for employees
+* Histogram to visualize most common salary ranges for employees
 
 ![Screenshot](https://github.com/NickP20/sql-challenge/blob/87b3010fec84a400c4e5929a6539189102b28498/EmployeeSQL/Salary%20Histogram.png)
 
-*Bar chart of average salary by employee title
+* Bar chart of average salary by employee title
 
 ![Screenshot](https://github.com/NickP20/sql-challenge/blob/87b3010fec84a400c4e5929a6539189102b28498/EmployeeSQL/Avg%20Salary%20by%20Title.png)
